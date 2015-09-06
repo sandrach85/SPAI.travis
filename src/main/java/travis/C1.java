@@ -8,7 +8,7 @@ public class C1 {
     }
 
     public int getValue() {
-        return value+1;
+        return value;
     }
 
 }
