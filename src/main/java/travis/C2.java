@@ -1,12 +1,14 @@
 package travis;
 
 public class C2 {
+    private int value;
 
-    public int m2() {
-        return -1;
+    public C2(int value) {
+        this.value = value;
     }
 
-    public int m22(){
-        return -1;
+    public int getValue() {
+        return value;
     }
+
 }
