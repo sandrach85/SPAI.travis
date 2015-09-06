@@ -1,7 +1,10 @@
 language: java
 script: mvn test
-# whitelist
 branches:
   only:
     - master
     - develop
+notifications:
+  email:
+    recipients:
+      - miw@etsisi.upm.es
