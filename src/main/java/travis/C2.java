@@ -6,4 +6,7 @@ public class C2 {
         return -1;
     }
 
+    public int m22(){
+        return -1;
+    }
 }
