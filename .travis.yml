@@ -11,6 +11,6 @@ branches:
 notifications:
   email:
     recipients:
-      - miw@etsisi.upm.es
+      - sandrachacon@alumnos.upm.es
       
 script: mvn verify
